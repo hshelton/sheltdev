@@ -1,4 +1,4 @@
 sheltdev
 ========
 
-Source code for sheltdev.com
+Resources for sheltdev.com
